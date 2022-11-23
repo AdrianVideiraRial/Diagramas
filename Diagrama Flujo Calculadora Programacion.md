@@ -1,4 +1,5 @@
 ```mermaid
+
 graph TD;
     A[INICIO PROGRAMA] -->
     B{SELECCION OPERACION}

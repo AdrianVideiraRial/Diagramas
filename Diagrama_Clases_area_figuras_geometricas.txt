@@ -6,6 +6,7 @@ classDiagram
     Figuras geometricas : -resultado String = mensaje
     Figuras geometricas: + Mostrar_resultado_area(String) float
     
+    
     class Triangulo {
         -base:float
         -altura:float
